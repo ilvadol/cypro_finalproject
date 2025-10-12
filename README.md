@@ -14,7 +14,7 @@ Using data from **1996–2020**, our goal is to answer the question:
 
 ### Datasets
 - **`vgsales.csv`** — Global and regional video game sales by platform, genre, publisher, and region  
-- **`Best Video Games of All Time.csv`** — Game Metascores from Metacritic
+- **`metacritic.csv`** — Game Metascores from Metacritic
 For more information about the datasets, including sources and descriptions, please refer to the `README.md` file located in the `dataset` folder of this repository.
 
 ---
